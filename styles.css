@@ -32,7 +32,7 @@ container{
 }
 
 .float-child{
-    width: 650px;
+    width: 70%;
     float: left;
     padding: 50px;
     border: 2px ;
@@ -42,16 +42,6 @@ container{
     background-color: white;
 }
 
-.float-child_v{
-    width: 100%;
-    float: left;
-    padding: 50px;
-    border: 2px ;
-    margin-right: 40px;
-    align-content: center;
-    text-align: left;
-    background-color: white;
-}
 *pcdbar{
     text-align: end;
 }
